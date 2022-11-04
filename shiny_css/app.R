@@ -9,7 +9,6 @@
 
 library(shiny)
 library(dplyr)
-library(ggplot2)
 #Enter click
 jscode <- '
 $(function() {
